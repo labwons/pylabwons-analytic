@@ -1,9 +1,10 @@
+ipywidgets
+jupyter
 matplotlib
 pandas
 plotly
 numpy
 scipy
 scikit-learn
-ipywidgets
-umap-learn
 tqdm
+umap-learn
